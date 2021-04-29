@@ -1,2 +1,2 @@
 # Connect4
-Created with CodeSandbox
+Single player Connect4 game against a computer AI.
